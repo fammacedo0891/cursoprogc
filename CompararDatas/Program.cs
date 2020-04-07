@@ -47,6 +47,8 @@ namespace CompararDatas
             Console.Write("Data2: " + pr2.ToString("dd/MM/yyyy"));
             Console.WriteLine();
 
+            Console.WriteLine("Programa encerrado");
+
             //Console.Write("Informe a data final: ");
             //d2 = DateTime.Parse(Console.ReadLine());
 
