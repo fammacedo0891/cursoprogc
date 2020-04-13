@@ -48,6 +48,7 @@ namespace CompararDatas
             Console.WriteLine();
 
             Console.WriteLine("Programa encerrado");
+            Console.WriteLine("Bye");
 
             //Console.Write("Informe a data final: ");
             //d2 = DateTime.Parse(Console.ReadLine());
